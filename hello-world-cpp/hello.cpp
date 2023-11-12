@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
     cout<<"Hello, World!"<<endl;
-    cout<<"This is my first C++ application using Docker"<<endl;
+    cout<<"This is my first cpp application using Docker"<<endl;
     return 0;
 }
